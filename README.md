@@ -21,6 +21,7 @@ The client side is a basic create-react-app template with a custom container and
 
 The following standard practices were omitted due to time constraints, but would be implimented if had sufficient time:
 
+1. The CSV data should be read in "real time" instead from a hard coded CSV file in the repo
 1. Securing the backend with a JWT or OAuth 2.0 security strategy
 2. Securing the front end with basic authentication / authorization
 3. Useful logging on both the server side and front end side
